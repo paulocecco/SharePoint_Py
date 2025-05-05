@@ -1,5 +1,5 @@
-from Read_SharePoint_excel2pandas import fetch_sharepoint_excel
-from Save_SharePoint_pandas2excel import upload_dataframes_to_sharepoint_excel
+from reader import fetch_sharepoint_excel
+from writer import upload_dataframes_to_sharepoint_excel
 
 # Authentication and SharePoint setup
 tenant_id = "your-tenant-id"
