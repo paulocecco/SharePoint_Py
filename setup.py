@@ -4,9 +4,9 @@ setup(
     name="sharepoint_excel_tools",
     version="0.1.0",
     description="Read and write SharePoint Excel files using Graph API and pandas",
-    author="Your Name",
-    author_email="you@example.com",
-    url="https://github.com/yourusername/sharepoint-excel-tools",
+    author="Paulo Alvarez Cecco",
+    author_email="paualvcec@gmail.com",
+    url="https://github.com/paulocecco/sharepoint-excel-tools",
     packages=find_packages(),
     install_requires=[
         "pandas",
