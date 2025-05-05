@@ -6,7 +6,7 @@ This repository provides two Python utilities to help you integrate Microsoft Sh
 
 ## 🔧 Modules
 
-### 1. `Read_SharePoint_excel2pandas.py`
+### 1. `reader.py`
 
 Fetch a sheet from an Excel file stored in SharePoint and load it into a pandas DataFrame.
 
@@ -14,7 +14,7 @@ Fetch a sheet from an Excel file stored in SharePoint and load it into a pandas 
 1) Microsoft Graph - User.Read
 2) SharePoint - Sites.Read.All
 
-### 2. `Save_SharePoint_pandas2excel.py`
+### 2. `writer.py`
 
 Update or add one or more sheets to an Excel file on SharePoint from pandas DataFrames.
 
