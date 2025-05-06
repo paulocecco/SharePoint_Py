@@ -10,8 +10,7 @@ This script allows you to read a specific sheet from an Excel file stored in Sha
 
 ## 📌 Function
 
-```
-python
+```python
 fetch_sharepoint_excel(
     tenant_id,
     client_id,
@@ -20,4 +19,4 @@ fetch_sharepoint_excel(
     site_name,
     file_path,
     sheet_name
-)
+)```
